@@ -1,0 +1,22 @@
+h1 {
+    background: pink;
+    color: yellow;
+    text-align: center;
+}
+h2 {
+    background: cadetblue;
+    color: yellow;
+    text-align: center;
+}
+p {
+    background: silver;
+    color: white;
+}
+ul {
+    background: aqua;
+    color: lightcoral;
+}
+
+img {
+    width: 300px;
+}
