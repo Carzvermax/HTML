@@ -1,0 +1,38 @@
+.widgets {
+    background: cornflowerblue;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 30px;
+}
+.widgets\.mini {
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+    box-sizing: border-box;
+    margin: 30px;
+}
+.widgets\.size {
+    background: blue;
+    width: 33.3%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.contact {
+    background: cornflowerblue;
+    height: 390px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 30px;
+}
+
+
+
+
+
