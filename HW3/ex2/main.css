@@ -1,0 +1,46 @@
+.bigbox {
+    height: 700px;
+    background: #28447d;
+    box-sizing: border-box;
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items:end;
+    column-gap: 40px;
+    position: relative;
+}
+.mini_box {
+    height: 200px;
+    width: 200px;
+    background: #742fb8;
+    position: relative;
+    top: 100px;
+    border-radius: 10%;
+}
+.high_line {
+    display: flex;
+    align-items: center;
+    column-gap: 1400px;
+    box-sizing: border-box;
+    padding-top: 25px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.h_box {
+    height: 50px;
+    background: #28447d;
+    width: 10%;
+    border-radius: 10%;
+    display: flex;
+}
+.icon_box {
+    display: flex;
+    column-gap: 15px;
+}
+.mini_ikon {
+    width: 40px;
+    height: 40px;
+}
+
+
