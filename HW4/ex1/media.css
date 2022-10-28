@@ -1,0 +1,13 @@
+@media screen and (max-width: 900px){
+    .box_A{
+        height: 30%;
+    }
+    .box_B{
+        height: 35%;
+        width: 100%;
+    }
+    .box_C{
+        height: 35%;
+        width: 100%;
+    }
+}
